@@ -6,19 +6,19 @@
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
   <link rel="dns-prefetch" href="http://yoursite.com">
-  <title>弄个博客吧 | 章鱼宝宝的个人博客</title>
+  <title>Java命令学习系列（Jps，Jstack，Jmap，Jstat，Jhat，Jinfo，Javap） | 章鱼宝宝的个人博客</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="文档 Hexo中文文档  教程 搭建博客点这里 想在博文里插图片点这里 想添加访客数量点这里">
-<meta name="keywords" content="Hexo,博客">
+  <meta name="description" content="Java命令学习系列（1）：Jps Java命令学习系列（2）：Jstack Java命令学习系列（3）：Jmap Java命令学习系列（4）：Jstat Java命令学习系列（5）：Jhat Java命令学习系列（6）：Jinfo Java命令学习系列（7）：Javap">
+<meta name="keywords" content="java,命令">
 <meta property="og:type" content="article">
-<meta property="og:title" content="弄个博客吧">
-<meta property="og:url" content="http://yoursite.com/2018/03/10/cjeqnm1u70001nwvsa64xahdl/index.html">
+<meta property="og:title" content="Java命令学习系列（Jps，Jstack，Jmap，Jstat，Jhat，Jinfo，Javap）">
+<meta property="og:url" content="http://yoursite.com/2018/03/14/cjeshk3lh0000h0vsoaur5s12">
 <meta property="og:site_name" content="章鱼宝宝的个人博客">
-<meta property="og:description" content="文档 Hexo中文文档  教程 搭建博客点这里 想在博文里插图片点这里 想添加访客数量点这里">
-<meta property="og:updated_time" content="2018-03-14T05:18:04.866Z">
+<meta property="og:description" content="Java命令学习系列（1）：Jps Java命令学习系列（2）：Jstack Java命令学习系列（3）：Jmap Java命令学习系列（4）：Jstat Java命令学习系列（5）：Jhat Java命令学习系列（6）：Jinfo Java命令学习系列（7）：Javap">
+<meta property="og:updated_time" content="2018-03-14T05:37:16.134Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="弄个博客吧">
-<meta name="twitter:description" content="文档 Hexo中文文档  教程 搭建博客点这里 想在博文里插图片点这里 想添加访客数量点这里">
+<meta name="twitter:title" content="Java命令学习系列（Jps，Jstack，Jmap，Jstat，Jhat，Jinfo，Javap）">
+<meta name="twitter:description" content="Java命令学习系列（1）：Jps Java命令学习系列（2）：Jstack Java命令学习系列（3）：Jmap Java命令学习系列（4）：Jstat Java命令学习系列（5）：Jhat Java命令学习系列（6）：Jinfo Java命令学习系列（7）：Javap">
   
     <link rel="alternative" href="/atom.xml" title="章鱼宝宝的个人博客" type="application/atom+xml">
   
@@ -154,7 +154,7 @@
             <canvas data-colors="#eaeaea" data-sectionHeight="100" data-contentId="js-content" id="myCanvas1" class="anm-canvas"></canvas>
           </div>
           <div id="js-content" class="content-ll">
-            <article id="post-弄个博客吧" class="article article-type-post " itemscope itemprop="blogPost">
+            <article id="post-Java命令学习系列（Jps，Jstack，Jmap，Jstat，Jhat，Jinfo，Javap）" class="article article-type-post " itemscope itemprop="blogPost">
   <div class="article-inner">
     
       <header class="article-header">
@@ -162,13 +162,13 @@
         
   
     <h1 class="article-title" itemprop="name">
-      弄个博客吧
+      Java命令学习系列（Jps，Jstack，Jmap，Jstat，Jhat，Jinfo，Javap）
     </h1>
   
 
         
-        <a href="/2018/03/10/cjeqnm1u70001nwvsa64xahdl/" class="archive-article-date">
-  	<time datetime="2018-03-10T10:06:40.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-03-10</time>
+        <a href="/2018/03/14/cjeshk3lh0000h0vsoaur5s12" class="archive-article-date">
+  	<time datetime="2018-03-14T05:35:45.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-03-14</time>
 </a>
         
         
@@ -180,13 +180,14 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h3 id="文档"><a href="#文档" class="headerlink" title="文档"></a>文档</h3><ul>
-<li><a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="noopener">Hexo中文文档</a></li>
-</ul>
-<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ul>
-<li>搭建博客点<a href="https://www.cnblogs.com/jackyroc/p/7681938.html" target="_blank" rel="noopener">这里</a></li>
-<li>想在博文里插图片点<a href="https://www.jianshu.com/p/cf0628478a4e" target="_blank" rel="noopener">这里</a></li>
-<li>想添加访客数量点<a href="http://www.lookk.cn/2017/12/09/hexo-yilia%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1/" target="_blank" rel="noopener">这里</a></li>
+        <ul>
+<li><a href="http://www.importnew.com/18132.html" target="_blank" rel="noopener">Java命令学习系列（1）：Jps</a></li>
+<li><a href="http://www.importnew.com/18176.html" target="_blank" rel="noopener">Java命令学习系列（2）：Jstack</a></li>
+<li><a href="http://www.importnew.com/18196.html" target="_blank" rel="noopener">Java命令学习系列（3）：Jmap</a></li>
+<li><a href="http://www.importnew.com/18202.html" target="_blank" rel="noopener">Java命令学习系列（4）：Jstat</a></li>
+<li><a href="http://www.importnew.com/18236.html" target="_blank" rel="noopener">Java命令学习系列（5）：Jhat</a></li>
+<li><a href="http://www.importnew.com/18373.html" target="_blank" rel="noopener">Java命令学习系列（6）：Jinfo</a></li>
+<li><a href="http://www.importnew.com/18398.html" target="_blank" rel="noopener">Java命令学习系列（7）：Javap</a></li>
 </ul>
 
       
@@ -232,11 +233,11 @@
 		<ul class="article-tag-list">
 			 
         		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">Hexo</a>
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">java</a>
         		</li>
       		 
         		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">博客</a>
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">命令</a>
         		</li>
       		
 		</ul>
@@ -248,7 +249,7 @@
 		<ul class="article-tag-list">
 			 
         		<li class="article-tag-list-item">
-        			<a href="/categories/other//" class="article-tag-list-link color3">其他</a>
+        			<a href="/categories/programming//" class="article-tag-list-link color3">编程</a>
         		</li>
       		
 		</ul>
@@ -303,7 +304,7 @@
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="//pan.baidu.com/share/qrcode?url=http://yoursite.com/2018/03/10/cjeqnm1u70001nwvsa64xahdl/" alt="微信分享二维码">
+      <img src="//pan.baidu.com/share/qrcode?url=http://yoursite.com/2018/03/14/cjeshk3lh0000h0vsoaur5s12" alt="微信分享二维码">
     </div>
 </div>
 
@@ -317,15 +318,11 @@
   
 <nav id="article-nav">
   
-    <a href="/2018/03/14/cjeqnm1u20000nwvsvdzu0xm7/" id="article-nav-newer" class="article-nav-link-wrap">
-      <i class="icon-circle-left"></i>
-      <div class="article-nav-title">
-        
-          Java命令学习系列（Jps，Jstack，Jmap，Jstat，Jhat，Jinfo，Javap）
-        
-      </div>
-    </a>
   
+    <a href="/2018/03/10/cjeshk3qr0007h0vsw9cahsx2" id="article-nav-older" class="article-nav-link-wrap">
+      <div class="article-nav-title">弄个博客吧</div>
+      <i class="icon-circle-right"></i>
+    </a>
   
 </nav>
 
@@ -350,7 +347,7 @@
                 </span>
                 <span class="tooltip-content">
                     <div class="toc-article">
-                    <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#文档"><span class="toc-number">1.</span> <span class="toc-text">文档</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#教程"><span class="toc-number">2.</span> <span class="toc-text">教程</span></a></li></ol>
+                    目录，不存在的…
                     </div>
                 </span>
             </div>
